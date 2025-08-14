@@ -1,0 +1,4 @@
+0xb66344A6236646DF74Aed82dd64F360B1113591a  合约地址
+
+捐赠 https://sepolia.etherscan.io/tx/0x1b3ba6e0070ebc278a74e22abf18dc2a6c10e386e323662e2b1ebda3bf590c06
+获取捐赠金额 https://sepolia.etherscan.io/tx/0x1b3ba6e0070ebc278a74e22abf18dc2a6c10e386e323662e2b1ebda3bf590c06
